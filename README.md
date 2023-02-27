@@ -5,7 +5,7 @@ Dorks searcher with a private api supporting all browser.
 
 - Private & Stable API
 - Free Update
-- Lightweight Api
+- All engine support (Google, Bing, Yahoo, ...)
 - Bypass Engine Search Limite
 - Small server requirement (1CPU, 1GB Ram & 1 IPV6 Subnet)
 
