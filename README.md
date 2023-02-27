@@ -8,7 +8,7 @@ To download and run the server you would need the server file. Contact the Owner
 After using the ssh root@[Server-IP] to connect to the server use this command to install the api.
 ```bash
   apt update -y; apt upgrade -y; apt install wget unzip -y;
-  wget https://dl.google.com/go/go1.20.1.linux-arm64.tar.gz;
+  wget https://dl.google.com/go/go1.20.1.linux-amd64.tar.gz;
   rm -rf /usr/local/go && tar -C /usr/local -xzf go1.20.1.linux-amd64.tar.gz;
   export PATH=$PATH:/usr/local/go/bin;
   echo "export PATH=$PATH:/usr/local/go/bin" > /root/.bashrc;
