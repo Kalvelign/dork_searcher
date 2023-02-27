@@ -1,6 +1,14 @@
 # Carbon Dorks Searcher
 Dorks searcher with a private api supporting all browser.
 
+## Features
+
+- Private & Stable API
+- Free Update
+- Lightweight Api
+- Bypass Engine Search Limite
+- Small server requirement (1CPU, 1GB Ram & 1 IPV6 Subnet)
+
 ## Installation
 
 To download and run the server you would need the server file. [Contact](https://t.me/dorksearcher)
