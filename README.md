@@ -1,4 +1,4 @@
-# Carbon Dorks Shearcher
+# Carbon Dorks Searcher
 Dorks searcher with a private api supporting all browser.
 
 ## Installation
