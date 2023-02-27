@@ -3,9 +3,9 @@ Dorks searcher with a private api supporting all browser.
 
 ## Installation
 
-To download and run the server you would need the server file. Contact the Owners.
+To download and run the server you would need the server file. [Contact](https://t.me/dorksearcher)
 
-After using the ssh root@[Server-IP] to connect to the server use this command to install the api.
+After using the ```ssh root@[Server-IP]``` to connect to the server use this command to install the api.
 ```bash
   apt update -y; apt upgrade -y; apt install wget unzip -y;
   wget https://dl.google.com/go/go1.20.1.linux-amd64.tar.gz;
