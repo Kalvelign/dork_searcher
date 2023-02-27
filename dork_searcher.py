@@ -7,7 +7,7 @@ import console
 import concurrent.futures
 
 def searcher(dork):
-    results = requests.get("http://192.168.1.10:9999/search/google/{}".format(base64.b64encode(dork.encode()).decode('utf-8')))
+    results = requests.get("http://[API URL]/search/[ENGINE]/{}".format(base64.b64encode(dork.encode()).decode('utf-8')))
 
     results_json = json.loads(results.text)
 
